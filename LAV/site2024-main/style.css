@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: rgb(197, 24, 111);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 47, 151);
+}
+
+p
+{
+    color: hotpink;
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(255, 188, 222);
+}
+
+.image-container
+{
+    margin-top: 20px;
+}
+
+.image-container img
+{
+    max-width: 100%;
+    border-radius: 8px;
+    margin: 10px;
+}
